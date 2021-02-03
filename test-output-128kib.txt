@@ -1,0 +1,1145 @@
+
+hello
+
+BL 1
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 8193
+
+
+BL 1
+N 1
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 1
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 8193
+
+
+BL 1
+N 2
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 2
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8194
+wl_hit_count 8191
+wlmd_count 2
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 8192
+
+
+BL 1
+N 4
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 4
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8194
+wl_hit_count 8191
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8195
+wl_hit_count 8190
+wlmd_count 4099
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 4096
+
+
+BL 1
+N 8
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 8
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8195
+wl_hit_count 8190
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8197
+wl_hit_count 8188
+wlmd_count 6149
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 2048
+
+
+BL 1
+N 16
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 16
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8197
+wl_hit_count 8188
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 32768
+fcd_count 0
+
+
+BL 2
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4097
+wl_hit_count 12288
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 4097
+
+
+BL 2
+N 1
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 1
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4097
+wl_hit_count 12288
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4097
+wl_hit_count 12288
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 4097
+
+
+BL 2
+N 2
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 2
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4097
+wl_hit_count 12288
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4100
+wl_hit_count 12285
+wlmd_count 4
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 4096
+
+
+BL 2
+N 4
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 4
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4100
+wl_hit_count 12285
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4103
+wl_hit_count 12282
+wlmd_count 2055
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 2048
+
+
+BL 2
+N 8
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 8
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4103
+wl_hit_count 12282
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4109
+wl_hit_count 12276
+wlmd_count 3085
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 1024
+
+
+BL 2
+N 16
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 16
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4109
+wl_hit_count 12276
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 16384
+fcd_count 0
+
+
+BL 4
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2049
+wl_hit_count 14336
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 2049
+
+
+BL 4
+N 1
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 1
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2049
+wl_hit_count 14336
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2049
+wl_hit_count 14336
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 2049
+
+
+BL 4
+N 2
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 2
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2049
+wl_hit_count 14336
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2056
+wl_hit_count 14329
+wlmd_count 8
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 2048
+
+
+BL 4
+N 4
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 4
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2056
+wl_hit_count 14329
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2063
+wl_hit_count 14322
+wlmd_count 1039
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 1024
+
+
+BL 4
+N 8
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 8
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2063
+wl_hit_count 14322
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2077
+wl_hit_count 14308
+wlmd_count 1565
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 512
+
+
+BL 4
+N 16
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 16
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2077
+wl_hit_count 14308
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 8192
+fcd_count 0
+
+
+BL 8
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1025
+wl_hit_count 15360
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 1025
+
+
+BL 8
+N 1
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 1
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1025
+wl_hit_count 15360
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1025
+wl_hit_count 15360
+wlmd_count 0
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 1025
+
+
+BL 8
+N 2
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 2
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1025
+wl_hit_count 15360
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1040
+wl_hit_count 15345
+wlmd_count 16
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 1024
+
+
+BL 8
+N 4
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 4
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1040
+wl_hit_count 15345
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1055
+wl_hit_count 15330
+wlmd_count 543
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 512
+
+
+BL 8
+N 8
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 8
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1055
+wl_hit_count 15330
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1085
+wl_hit_count 15300
+wlmd_count 829
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 256
+
+
+BL 8
+N 16
+Write Through Non Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8191
+rl_miss_count 1
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8193
+wl_hit_count 8192
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 16
+Write Through Allocate
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1085
+wl_hit_count 15300
+wlmd_count 0
+wt_count 16385
+wtm_count 16385
+fc_count 4096
+fcd_count 0
+
+
+Process returned 0 (0x0)   execution time : 3.939 s
+Press any key to continue.

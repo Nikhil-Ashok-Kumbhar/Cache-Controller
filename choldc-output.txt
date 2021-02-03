@@ -1,0 +1,1145 @@
+
+hello
+
+BL 1
+N 1
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13932260
+rl_miss_count 49306
+rlmd_count 8155
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 32777
+wl_hit_count 5559799
+wlmd_count 8127
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 16498
+
+
+BL 1
+N 1
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13915746
+rl_miss_count 65820
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33164
+wl_hit_count 5559412
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 1
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13932260
+rl_miss_count 49306
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 32777
+wl_hit_count 5559799
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 2
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13918961
+rl_miss_count 62605
+rlmd_count 10526
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 32907
+wl_hit_count 5559669
+wlmd_count 18291
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 4157
+
+
+BL 1
+N 2
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13914744
+rl_miss_count 66822
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 52268
+wl_hit_count 5540308
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 2
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13918961
+rl_miss_count 62605
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 32907
+wl_hit_count 5559669
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 4
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13914065
+rl_miss_count 67501
+rlmd_count 7440
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33167
+wl_hit_count 5559409
+wlmd_count 24862
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 1058
+
+
+BL 1
+N 4
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13912924
+rl_miss_count 68642
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 90476
+wl_hit_count 5502100
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 4
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13914065
+rl_miss_count 67501
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33167
+wl_hit_count 5559409
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 8
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13909203
+rl_miss_count 72363
+rlmd_count 5343
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33723
+wl_hit_count 5558853
+wlmd_count 28442
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 274
+
+
+BL 1
+N 8
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13909101
+rl_miss_count 72465
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 133286
+wl_hit_count 5459290
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 8
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13909203
+rl_miss_count 72363
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33723
+wl_hit_count 5558853
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 16
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13900866
+rl_miss_count 80700
+rlmd_count 5007
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 34835
+wl_hit_count 5557741
+wlmd_count 30376
+wt_count 0
+wtm_count 0
+fc_count 32768
+fcd_count 74
+
+
+BL 1
+N 16
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13901496
+rl_miss_count 80070
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 218906
+wl_hit_count 5373670
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 1
+N 16
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13900866
+rl_miss_count 80700
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 34835
+wl_hit_count 5557741
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 32768
+fcd_count 0
+
+
+BL 2
+N 1
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13956388
+rl_miss_count 25178
+rlmd_count 4432
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 24652
+wl_hit_count 5567924
+wlmd_count 11971
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 8252
+
+
+BL 2
+N 1
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13947862
+rl_miss_count 33704
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33043
+wl_hit_count 5559533
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 1
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13956388
+rl_miss_count 25178
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 24652
+wl_hit_count 5567924
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 2
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13949224
+rl_miss_count 32342
+rlmd_count 5861
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 31022
+wl_hit_count 5561554
+wlmd_count 23090
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 2080
+
+
+BL 2
+N 2
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13946720
+rl_miss_count 34846
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33429
+wl_hit_count 5559147
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 2
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13949224
+rl_miss_count 32342
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 31022
+wl_hit_count 5561554
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 4
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13945843
+rl_miss_count 35723
+rlmd_count 4872
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33051
+wl_hit_count 5559525
+wlmd_count 27665
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 531
+
+
+BL 2
+N 4
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13944618
+rl_miss_count 36948
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 34201
+wl_hit_count 5558375
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 4
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13945843
+rl_miss_count 35723
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33051
+wl_hit_count 5559525
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 8
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13941366
+rl_miss_count 40200
+rlmd_count 5087
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 34524
+wl_hit_count 5558052
+wlmd_count 29331
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 138
+
+
+BL 2
+N 8
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13939944
+rl_miss_count 41622
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 36112
+wl_hit_count 5556464
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 8
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13941366
+rl_miss_count 40200
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 34524
+wl_hit_count 5558052
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 16
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13933125
+rl_miss_count 48441
+rlmd_count 7455
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 36809
+wl_hit_count 5555767
+wlmd_count 29379
+wt_count 0
+wtm_count 0
+fc_count 16384
+fcd_count 38
+
+
+BL 2
+N 16
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13930636
+rl_miss_count 50930
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 39933
+wl_hit_count 5552643
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 2
+N 16
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13933125
+rl_miss_count 48441
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 36809
+wl_hit_count 5555767
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 16384
+fcd_count 0
+
+
+BL 4
+N 1
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13968829
+rl_miss_count 12737
+rlmd_count 2706
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 20850
+wl_hit_count 5571726
+wlmd_count 13955
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 4190
+
+
+BL 4
+N 1
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13964169
+rl_miss_count 17397
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33506
+wl_hit_count 5559070
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 1
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13968829
+rl_miss_count 12737
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 20850
+wl_hit_count 5571726
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 2
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13964879
+rl_miss_count 16687
+rlmd_count 3982
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 30500
+wl_hit_count 5562076
+wlmd_count 25453
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 1072
+
+
+BL 4
+N 2
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13963013
+rl_miss_count 18553
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 34278
+wl_hit_count 5558298
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 2
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13964879
+rl_miss_count 16687
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 30500
+wl_hit_count 5562076
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 4
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13962591
+rl_miss_count 18975
+rlmd_count 4536
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33774
+wl_hit_count 5558802
+wlmd_count 28975
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 282
+
+
+BL 4
+N 4
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13960879
+rl_miss_count 20687
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 35822
+wl_hit_count 5556754
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 4
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13962591
+rl_miss_count 18975
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 33774
+wl_hit_count 5558802
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 8
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13959064
+rl_miss_count 22502
+rlmd_count 6817
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 36511
+wl_hit_count 5556065
+wlmd_count 29655
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 78
+
+
+BL 4
+N 8
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13956149
+rl_miss_count 25417
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 39643
+wl_hit_count 5552933
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 8
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13959064
+rl_miss_count 22502
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 36511
+wl_hit_count 5556065
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 16
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13952395
+rl_miss_count 29171
+rlmd_count 12330
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 41006
+wl_hit_count 5551570
+wlmd_count 28731
+wt_count 0
+wtm_count 0
+fc_count 8192
+fcd_count 24
+
+
+BL 4
+N 16
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13946725
+rl_miss_count 34841
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 47284
+wl_hit_count 5545292
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 4
+N 16
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13952395
+rl_miss_count 29171
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 41006
+wl_hit_count 5551570
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 8192
+fcd_count 0
+
+
+BL 8
+N 1
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13974373
+rl_miss_count 7193
+rlmd_count 2240
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 19346
+wl_hit_count 5573230
+wlmd_count 14947
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 2160
+
+
+BL 8
+N 1
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13971249
+rl_miss_count 10317
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 34530
+wl_hit_count 5558046
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 1
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13974373
+rl_miss_count 7193
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 19346
+wl_hit_count 5573230
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 2
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13971371
+rl_miss_count 10195
+rlmd_count 3828
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 31024
+wl_hit_count 5561552
+wlmd_count 26639
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 568
+
+
+BL 8
+N 2
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13969053
+rl_miss_count 12513
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 36074
+wl_hit_count 5556502
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 2
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13971371
+rl_miss_count 10195
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 31024
+wl_hit_count 5561552
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 4
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13968142
+rl_miss_count 13424
+rlmd_count 5926
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 35678
+wl_hit_count 5556898
+wlmd_count 29625
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 158
+
+
+BL 8
+N 4
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13964661
+rl_miss_count 16905
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 39162
+wl_hit_count 5553414
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 4
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13968142
+rl_miss_count 13424
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 35678
+wl_hit_count 5556898
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 8
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13962285
+rl_miss_count 19281
+rlmd_count 10894
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 40685
+wl_hit_count 5551891
+wlmd_count 29806
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 48
+
+
+BL 8
+N 8
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13955475
+rl_miss_count 26091
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 46803
+wl_hit_count 5545773
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 8
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13962285
+rl_miss_count 19281
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 40685
+wl_hit_count 5551891
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 16
+Write-back
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13950954
+rl_miss_count 30612
+rlmd_count 21118
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 49402
+wl_hit_count 5543174
+wlmd_count 28397
+wt_count 0
+wtm_count 0
+fc_count 4096
+fcd_count 17
+
+
+BL 8
+N 16
+Write Through Non Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13937479
+rl_miss_count 44087
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 61448
+wl_hit_count 5531128
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+BL 8
+N 16
+Write Through Allocate
+rm_count 13981566
+rl_count 13981566
+rl_hit_count 13950954
+rl_miss_count 30612
+rlmd_count 0
+wm_count 5592576
+wl_count 5592576
+wlm_miss_count 49402
+wl_hit_count 5543174
+wlmd_count 0
+wt_count 5592576
+wtm_count 5592576
+fc_count 4096
+fcd_count 0
+
+
+Process returned 0 (0x0)   execution time : 1273.511 s
+Press any key to continue.

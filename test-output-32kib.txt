@@ -1,0 +1,365 @@
+ 
+hello
+
+BL 1
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8194
+wl_hit_count 8191
+wlmd_count 2
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 1
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8195
+wl_hit_count 8190
+wlmd_count 4099
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 1
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8197
+wl_hit_count 8188
+wlmd_count 6149
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 1
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8201
+wl_hit_count 8184
+wlmd_count 7177
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 1
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 8209
+wl_hit_count 8176
+wlmd_count 7697
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 2
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4100
+wl_hit_count 12285
+wlmd_count 4
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 2
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4103
+wl_hit_count 12282
+wlmd_count 2055
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 2
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4109
+wl_hit_count 12276
+wlmd_count 3085
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 2
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4121
+wl_hit_count 12264
+wlmd_count 3609
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 2
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 4145
+wl_hit_count 12240
+wlmd_count 3889
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 4
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2056
+wl_hit_count 14329
+wlmd_count 8
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 4
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2063
+wl_hit_count 14322
+wlmd_count 1039
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 4
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2077
+wl_hit_count 14308
+wlmd_count 1565
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 4
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2105
+wl_hit_count 14280
+wlmd_count 1849
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 4
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 2161
+wl_hit_count 14224
+wlmd_count 2033
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 8
+N 1
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1040
+wl_hit_count 15345
+wlmd_count 16
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 8
+N 2
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1055
+wl_hit_count 15330
+wlmd_count 543
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 8
+N 4
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1085
+wl_hit_count 15300
+wlmd_count 829
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 8
+N 8
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1145
+wl_hit_count 15240
+wlmd_count 1017
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+BL 8
+N 16
+Write-back
+rm_count 8192
+rl_count 8192
+rl_hit_count 8192
+rl_miss_count 0
+rlmd_count 0
+wm_count 16385
+wl_count 16385
+wlm_miss_count 1265
+wl_hit_count 15120
+wlmd_count 1201
+wt_count 0
+fc_count 0
+fcd_count 0
+
+
+Process returned 0 (0x0)   execution time : 0.755 s
+Press any key to continue.
