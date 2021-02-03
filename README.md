@@ -5,6 +5,8 @@ The goal of this project is to determine the best architecture for a cache contr
 16- bit microprocessor that is used for signal processing. While the microprocessor is general purpose in
 design and performs a number of functions, it is desired to speed up certain signal processing functions,
 such as those calculating the eigenvalues and eigenvectors of a system.
+
+
 KEY REQUIREMENTS:
  Your project should seek to allow 4GiB of memory (1 Gi x 32 bit) to be interfaced and the cache
 should be limited to 128 KiB in size
